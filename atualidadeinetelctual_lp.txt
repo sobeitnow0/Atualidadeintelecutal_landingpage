@@ -1,0 +1,9 @@
+marca-protegida/
+│
+├── index.html              ← HTML com SEO e Open Graph inclusos
+├── style.css               ← Estilo completo e responsivo
+├── assets/
+│   ├── logo.png            ← Logo da Atualidade Intelectual (exemplo)
+│   └── favicon.ico         ← Favicon profissional
+└── images/
+    └── hero-bg.jpg         ← Imagem opcional para fundo elegante
